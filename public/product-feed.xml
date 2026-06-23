@@ -4,6 +4,19 @@
     <title>sweets_by_hila</title>
     <link>https://example.com</link>
     <description>Product feed for sweets_by_hila</description>
-    <lastBuildDate>Tue, 23 Jun 2026 18:29:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 18:53:19 GMT</lastBuildDate>
+    <item>
+      <g:id>64561b36-ec3c-4137-905f-631108d33d6b</g:id>
+      <g:title>סינבון קינמון עם גלייז </g:title>
+      <g:description>סינבון חלביים רכים ואווריריים שמגיעים עם גלייז שמנת מעל,הסינבון מגיע בכמה גדלים: 3/4/6/8 טווח מחירים: 40₪-100₪</g:description>
+      <g:link>https://example.com/product/synbvn-kynmvn-am-glyyz-o9hdsl</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782240206956-xld8d9.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782240174218-3vpyn.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>40.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>sweets_by_hila</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

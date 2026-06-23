@@ -1,8 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T18:29:41.462Z",
+  "generated_at": "2026-06-23T18:53:19.893Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "64561b36-ec3c-4137-905f-631108d33d6b",
+      "slug": "synbvn-kynmvn-am-glyyz-o9hdsl",
+      "name": "סינבון קינמון עם גלייז ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "סינבון חלביים רכים ואווריריים שמגיעים עם גלייז שמנת מעל,הסינבון מגיע בכמה גדלים:\n3/4/6/8\nטווח מחירים: \n40₪-100₪",
+      "sku": null,
+      "brand": null,
+      "price": 40,
+      "base_price": 40,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1782240206956-xld8d9.webp",
+        "https://example.com/assets/product-enhanced-1782240174218-3vpyn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/synbvn-kynmvn-am-glyyz-o9hdsl",
+      "categories": [],
+      "updated_at": "2026-06-23T18:50:29.636Z"
+    }
+  ]
 }

@@ -101,13 +101,13 @@ Description: גלי עולם של קינוחים בעבודת יד מאפיית 
 
 
 
-סדנת קינוחים בוטיקית
+קונדיטוריה ביתית ~ קינוחים בעבודת יד
 
 
-# המתוקים של Hilaמתנה של טעם ואהבה
+# Sweets_by_hila
 
 
-### קינוחים מעוצבים בעבודת יד לאירועים, מתנות מפנקות ורגעים מתוקים
+### איתכם ברגעים המתוקים שלכם.
 
 
 צרי קשר עכשיו
@@ -4000,6 +4000,15 @@ Description: sweets_by_hila - תודה על פנייתך
 נגישות
 
 נוצר באמצעות Zappy
+
+---
+
+## Product Catalog
+
+### סינבון קינמון עם גלייז 
+URL: https://example.com/product/synbvn-kynmvn-am-glyyz-o9hdsl
+Price: 40.00 ILS
+Availability: In stock
 
 ---
 
