@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://sweets-by-hila-611b5f94.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml
