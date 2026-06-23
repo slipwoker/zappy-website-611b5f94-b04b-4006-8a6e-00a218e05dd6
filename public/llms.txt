@@ -1,0 +1,98 @@
+# sweets_by_hila — Generative Engine Optimization Map
+
+> Sweets by Hila is a boutique homemade dessert business with a warm, feminine, and indulgent aesthetic. The brand specializes in a diverse range of handcrafted sweets including cinnamon rolls, baked cheesecakes, custom decorated cakes, bento cakes, decadent cookies, rolled desserts, cup desserts, and assorted pies. The visual identity is soft and inviting, built around a palette of dusty rose, warm brown, and creamy beige tones that evoke comfort, elegance, and sweetness.
+
+---
+
+## Pages
+
+### בית
+https://sweets-by-hila-611b5f94.zappy5.app
+גלי עולם של קינוחים בעבודת יד מאפיית הבוטיק של הילה. מעוגת גבינה אפויה ועד סינבון חמים, כל ביס הוא חיבוק מתוק. הכנסי עכשיו והזמיני פינוק עד הבית!
+
+### אודות
+https://sweets-by-hila-611b5f94.zappy5.app/about
+הכירי את הילה, הלב והנשמה שמאחורי כל עוגת בנטו וקינוח. תשוקה אמיתית לאפייה ביתית, חומרי גלם איכותיים ואהבה לכל פרט קטן. בואי לשמוע את הסיפור המלא.
+
+### גלריה
+https://sweets-by-hila-611b5f94.zappy5.app/gallery
+צללי לגלריית הפינוקים שלנו ותתאהבי! עוגות גבינה אפויות זהובות, עוגות בנטו מעוצבות, סינבונים מפנקים ועוד. כל תמונה היא הבטחה לטעם מושלם. בואי לבחור את הקינוח הבא שלך.
+
+### שאלות נפוצות
+https://sweets-by-hila-611b5f94.zappy5.app/faq
+איך מזמינים עוגת בנטו לאירוע? מה סוד הסינבון הכי טעים שיש? כל התשובות לשאלות הכי מתוקות שלך מחכות כאן. כנסי וגלי כמה קל להתפנק איתנו!
+
+### צור קשר
+https://sweets-by-hila-611b5f94.zappy5.app/contact
+רוצה לפנק את הקרובים עם עוגת גבינה אפויה מהחלומות? מלאי את הפרטים ואחזור אלייך עם חיוך והמון מתיקות. ההזמנה הכי קלה וטעימה שתעשי היום!
+
+### Products
+https://sweets-by-hila-611b5f94.zappy5.app/products
+המוצרים שלנו - sweets_by_hila
+
+### Product Detail
+https://sweets-by-hila-611b5f94.zappy5.app/product/:slug
+פרטי המוצר - sweets_by_hila
+
+### Category
+https://sweets-by-hila-611b5f94.zappy5.app/category/:slug
+מוצרים - sweets_by_hila
+
+### תודה על פנייתך
+https://sweets-by-hila-611b5f94.zappy5.app/thank-you
+sweets_by_hila - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://sweets-by-hila-611b5f94.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://sweets-by-hila-611b5f94.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://sweets-by-hila-611b5f94.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About sweets_by_hila
+Sweets by Hila is a boutique homemade dessert business with a warm, feminine, and indulgent aesthetic. The brand specializes in a diverse range of handcrafted sweets including cinnamon rolls, baked cheesecakes, custom decorated cakes, bento cakes, decadent cookies, rolled desserts, cup desserts, and assorted pies. The visual identity is soft and inviting, built around a palette of dusty rose, warm brown, and creamy beige tones that evoke comfort, elegance, and sweetness.
+
+## Services/Products
+- סינבון
+- עוגת גבינה אפויה
+- עוגה מעוצבת גדולה
+- עוגת בנטו
+- עוגיות מושחתות
+- מגולגלות
+- קינוחי כוסות
+- פאי בטעמים שונים
+
+## Target Audience
+- מתכנני אירועים
+- מחפשי מתנות יוקרה
+- מסיבות כלה
+
+## Industry
+Bakery & Desserts
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://sweets-by-hila-611b5f94.zappy5.app/sitemap.xml
+- Robots: https://sweets-by-hila-611b5f94.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://sweets-by-hila-611b5f94.zappy5.app/llms-full.txt
+- Products (JSON): https://sweets-by-hila-611b5f94.zappy5.app/products.json
+- Products (Google Merchant RSS): https://sweets-by-hila-611b5f94.zappy5.app/product-feed.xml
