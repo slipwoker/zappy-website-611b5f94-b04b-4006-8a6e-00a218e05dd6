@@ -4,7 +4,60 @@
     <title>sweets_by_hila</title>
     <link>https://example.com</link>
     <description>Product feed for sweets_by_hila</description>
-    <lastBuildDate>Tue, 23 Jun 2026 18:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 10:28:26 GMT</lastBuildDate>
+    <item>
+      <g:id>6459e406-0e86-4561-a277-a459d463136d</g:id>
+      <g:title>עוגיות מושחתות~״קראמבל קוקיז״</g:title>
+      <g:description>עוגיות מושחתות בטעמים לבחירה: קינדר,אוראו,פיסטוק,אמסטרדם,סוכריות צבעוניות,נוטלה,שוקולד צ׳יפס,סמורס,ריסס. מחיר לעוגיה 1: 15₪</g:description>
+      <g:link>https://example.com/product/avgyvt-mvshchtvtkrambl-kvkyz-wdfqee</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782243118083-e5e8p.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782243145099-as2bjo.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>15.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>sweets_by_hila</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>c8c757a3-10a2-4a39-8ac9-f38cf98a1037</g:id>
+      <g:title>עוגת בנטו מעוצבת </g:title>
+      <g:description>עוגת בנטו בטעם שוקולד/וניל עם מילוי לבחירה ועיצוב בהתאמה אישית. •במקרה של עיצוב מיוחד שכולל דף סוכר/אלמנטים תיהיה תוספת תשלום.</g:description>
+      <g:link>https://example.com/product/avgt-bntv-mavtsbt-kw4unt</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782242410649-obrseg.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782242383965-df8js4.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>95.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>sweets_by_hila</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>99c589f9-a038-404b-ad80-7875e066081f</g:id>
+      <g:title>עוגות גבינה מיוחדות- קוטר 22</g:title>
+      <g:description>עוגות גבינה עשירות ~ קוטר 22 מספיקות ל10 אנשים מגיעות עם פירות העונה,ריבות וקרמים מיוחדים טווח מחירים: 95₪-115₪</g:description>
+      <g:link>https://example.com/product/avgvt-gbynh-myvchdvt-kvtr-22-z24za0</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782241728522-lql16c.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782241913188-hla794.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-enhanced-1782241995975-1n3uo.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>95.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>sweets_by_hila</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>d6df8ebf-8a82-4d05-a340-11e9d7dde97e</g:id>
+      <g:title>עוגת גבינה אפויה - קוטר 18</g:title>
+      <g:description>עוגת גבינה עשירה קוטר 18, העוגה מתאימה ל6-8 אנשים ומגיעה עם אבקת סוכר מעל. 85₪</g:description>
+      <g:link>https://example.com/product/avgt-gbynh-apvyh-kvtr-18-oi3fp7</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1782241360787-3c6akb.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1782241330550-npxe8i.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>85.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>sweets_by_hila</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
     <item>
       <g:id>64561b36-ec3c-4137-905f-631108d33d6b</g:id>
       <g:title>סינבון קינמון עם גלייז </g:title>

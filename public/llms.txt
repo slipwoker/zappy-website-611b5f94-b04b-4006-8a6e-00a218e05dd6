@@ -60,7 +60,35 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 1**
+**Total active products: 5**
+
+### עוגיות מושחתות~״קראמבל קוקיז״
+https://example.com/product/avgyvt-mvshchtvtkrambl-kvkyz-wdfqee
+- Price: 15.00 ILS
+- Availability: In stock
+- Description: עוגיות מושחתות בטעמים לבחירה: קינדר,אוראו,פיסטוק,אמסטרדם,סוכריות צבעוניות,נוטלה,שוקולד צ׳יפס,סמורס,ריסס. מחיר לעוגיה 1: 15₪
+- Image: https://example.com/assets/product-enhanced-1782243118083-e5e8p.webp
+
+### עוגת בנטו מעוצבת 
+https://example.com/product/avgt-bntv-mavtsbt-kw4unt
+- Price: 95.00 ILS
+- Availability: In stock
+- Description: עוגת בנטו בטעם שוקולד/וניל עם מילוי לבחירה ועיצוב בהתאמה אישית. •במקרה של עיצוב מיוחד שכולל דף סוכר/אלמנטים תיהיה תוספת תשלום.
+- Image: https://example.com/assets/product-enhanced-1782242410649-obrseg.webp
+
+### עוגות גבינה מיוחדות- קוטר 22
+https://example.com/product/avgvt-gbynh-myvchdvt-kvtr-22-z24za0
+- Price: 95.00 ILS
+- Availability: In stock
+- Description: עוגות גבינה עשירות ~ קוטר 22 מספיקות ל10 אנשים מגיעות עם פירות העונה,ריבות וקרמים מיוחדים טווח מחירים: 95₪-115₪
+- Image: https://example.com/assets/product-enhanced-1782241728522-lql16c.webp
+
+### עוגת גבינה אפויה - קוטר 18
+https://example.com/product/avgt-gbynh-apvyh-kvtr-18-oi3fp7
+- Price: 85.00 ILS
+- Availability: In stock
+- Description: עוגת גבינה עשירה קוטר 18, העוגה מתאימה ל6-8 אנשים ומגיעה עם אבקת סוכר מעל. 85₪
+- Image: https://example.com/assets/product-enhanced-1782241360787-3c6akb.webp
 
 ### סינבון קינמון עם גלייז 
 https://example.com/product/synbvn-kynmvn-am-glyyz-o9hdsl
